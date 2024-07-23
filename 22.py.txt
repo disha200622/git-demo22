@@ -1,1 +1,3 @@
 print("disha,from mithur")
+print("Ashwini,from manchi")
+print("divya,from puttur")
